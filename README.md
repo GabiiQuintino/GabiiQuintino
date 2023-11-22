@@ -1,9 +1,7 @@
-### Olá ! Eu sou a Gabii Quintino !
+### Olá ! Eu sou a Gabii Quintino ! 
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas 
 - 📫 Discord Pessoal: Gabii#3902
-
-<img align="right" alt="Gabii-Gif" src="https://www.canva.com/design/DAF03JWqzuY/vRX9mD3vHS6CwIdkZZDpoA/view?utm_content=DAF03JWqzuY&utm_campaign=designshare&utm_medium=link&utm_source=editor">
 
 <div>
 <h1> Sobre Mim:</h1>  
@@ -36,7 +34,7 @@
 <div>
 <a href-"https://github.com/GabiiQuintino">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabiiQuintino&show_iconstrue&theme=date_night&include_all_commits-true&count_private-true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiiQuintino&layout=compact&langs_count~16&theme=date_night" L> </a>
+<img height="200em" width="520em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiiQuintino&layout=compact&langs_count~16&theme=date_night" L> </a>
 </div>
 
 
