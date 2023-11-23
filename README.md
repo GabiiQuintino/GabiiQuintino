@@ -1,7 +1,9 @@
 ### Olá ! Eu sou a Gabii Quintino ! 
 
+<img src="https://github.com/GabiiQuintino/GabiiQuintino/assets/151588993/f79f2ed2-d87f-46e9-99c1-ba595758b9a3" width="220px" align="right" >
+
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas 
-- 📫 Discord Pessoal: Gabii#3902
+- 📫 Discord Pessoal: Gabii#3902 
 
 <div>
 <h1> Sobre Mim:</h1>  
