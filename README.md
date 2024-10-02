@@ -7,7 +7,7 @@
 
 <div>
 <h1> Sobre Mim:</h1>  
-  Olá! Me chamo Gabrielli Quintino, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas na faculdade Impacta em São Paulo. Atualmente sou Freelancer de Front-End, Social Media e Designer Gráfico. Apaixonada por Tecnologia ❤️ !
+  Olá! Me chamo Gabrielli Quintino, tenho 22 anos e sou formada em Análise e Desenvolvimento de Sistemas na faculdade Impacta em São Paulo. Atualmente sou Freelancer de Front-End, Social Media e Designer Gráfico. Apaixonada por Tecnologia ❤️ !
 <div>
   
 <h1> 🌐 Redes Sociais:</h1> 
